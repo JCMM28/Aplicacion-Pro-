@@ -1,0 +1,36 @@
+{
+    "name": "pwa 10C",
+    "short_name": "pwa",
+    "description": "aplicacion para materia pwa",
+    "background-color": "#fff",
+    "theme-color": "#333",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./index.html?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+        {
+            "src": "./assets/Earthbound1.jpg",
+            "type": "image/jpg"
+        },{
+            "src": "./assets/la-saga-de-earthbound-conocida-.gif",
+            "type": "image/gif"
+        },{
+            "src": "./assets/logo.png",
+            "type": "image/png"
+        },{
+            "src": "./assets/Mother1.jpg",
+            "type": "image/jpg"
+        },{
+            "src": "./assets/mother3.jpg",
+            "type": "image/jpg"
+        },{
+            "src": "./assets/onettnight.png",
+            "type": "image/png"
+        },{
+            "src": "./assets/Earthbound.tff",
+            "type": "font/ttf"
+        }
+    ]
+}
