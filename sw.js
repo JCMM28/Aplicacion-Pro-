@@ -9,6 +9,10 @@ var urlToCache = [
     './assets/mother3.jpg',
     './assets/onettnight.png',
     './assets/Earthbound.tff',
+    'assets/Slipknot-logo.jpg',
+    './assets/Slipknot_Negra (1).png.opdownload',
+    './assets/Slipknot-899x600.jpg',
+    './assets/concert.jpg',
 ]
 
 self.addEventListener('install', e => {
